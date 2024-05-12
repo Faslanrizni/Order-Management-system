@@ -25,3 +25,10 @@ The API Gateway microservice serves as the entry point for client requests and r
 
 Repository Link: [api-gateway](https://github.com/Faslanrizni/POS-api-gateway)
 
+## Technologies Used
+- Spring Boot
+- Spring Cloud
+- Spring Data JPA
+- Netflix Eureka
+- Spring Cloud Gateway
+
